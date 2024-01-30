@@ -63,7 +63,7 @@ java -cp target/app-java-1.0-SNAPSHOT.jar csc435.app.SortWords <input directory>
 ```
 ### Directory Structure
 
-pa1-Mohammed-Adnan2000/
+pa1-AwaisJunaid/
 |
 ├── app-java/
 │   ├── src/
@@ -105,8 +105,3 @@ pa1-Mohammed-Adnan2000/
 ├── Dataset/
 │
 └── README.md
-
-
-
-
-git remote add origin https://github.com/neurobazaar/pa1-AwaisJunaid.git
